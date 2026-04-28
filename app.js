@@ -25,7 +25,7 @@ const server = http.createServer((req, res) => {
         </style>
     </head>
     <body>
-        <h1>🎮 Number Guessing Game</h1>
+        <h1>🎮 Number Guessing Game123</h1>
         <p>Guess a number between 1 and 10</p>
         
         <input type="number" id="guess" />
